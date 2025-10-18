@@ -59,8 +59,7 @@ void draw(){
   //move house
   if(mole[2].myY<350){
    houseY-=1;
-   System.out.println(houseY);
-   //System.out.println(mole[2].myY);
+
   }
  
  
